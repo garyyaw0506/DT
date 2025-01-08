@@ -1,6 +1,6 @@
 ## Setup File
 
-[Download setup.zip](https://drive.google.com/file/d/1YQ-OwTYJC4t9myZuc3orkOPDQ0Ab3AyE/view?usp=sharing)
+[Download setup.zip](https://drive.google.com/file/d/1tUMoeM6cbDv1TxHhstldaj5OQWnvW90s/view?usp=sharing)
 
 
 
