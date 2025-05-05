@@ -4,6 +4,10 @@
 
 [Download setup scanner.zip](https://drive.google.com/file/d/16iJcwBmFojtYfa8NOYzvjzNOILKDCd5m/view?usp=sharing)
 
+[Download setup scanIP.zip](https://drive.google.com/file/d/1CreV2TYWJMoLMjSVsOHO5W3xa6LnBko_/view?usp=sharing)
+
+
+
 
 
 
